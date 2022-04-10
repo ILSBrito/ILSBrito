@@ -1,0 +1,4 @@
+- 👋 Hi, I’m the Ingrid Brito
+- 👀 I’m interested in learning DATA SCIENCE
+- 🌱 I’m currently learning Python
+- 📫 How to reach me ingrid.lathieri@gmail.com
